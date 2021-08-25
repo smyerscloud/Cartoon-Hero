@@ -1,0 +1,60 @@
+body{
+	margin: 0;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+header{
+	background-color: #d14635;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+h1,h2{font-family: 'Luckiest Guy', cursive;
+font-family: 'Permanent Marker', cursive;}
+header h1{
+	color: white;
+	font-size: 150px;
+
+
+}
+header img{
+	 border-radius: 180px;
+    width: 270px;
+    border: 10px solid #ECE725;
+}
+main{
+
+	padding-left: 250px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	
+}
+main img{max-width: 100%;}
+
+h2{font-size: 55px;
+color: black;
+margin: 40px 0 20px;}
+
+a{
+	color: black ;
+
+}
+a:hover{
+	background-color: orange;
+	color: black;
+}
+footer{
+	background-color: #d14635;
+	text-align: center;
+	padding:  50px;
+}
+
+footer o{
+	margin: 0;
+}
+
+p.caption{color: #999999;
+font-style: italic; 
+margin-top: 0;}
